@@ -1,4 +1,10 @@
 # Netflix-Data-Analysis-project
+<p align="center">
+  <img src="https://github.com/aryanfarswan77/Netflix-Data-Analysis-project/blob/main/netflix.jpg?raw=true" alt="Netflix Logo" width="200"/>
+  <br/>
+  <strong>Netflix Data Analysis Project</strong>
+</p>
+
 # 📊 Netflix Data Analysis Using SQL and Tableau
 
 ## 📌 Overview
