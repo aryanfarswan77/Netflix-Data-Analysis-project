@@ -207,4 +207,4 @@ This project is a part of my data analytics portfolio, demonstrating my skills i
 
 If you have any questions, feedback, or collaboration ideas, feel free to reach out — I'd love to connect!
 
-📫 _Contact_: [**Gmail**](deepakfarswan99@gmail.com)
+📫 _Contact_: deepakfarswan99@gmail.com
